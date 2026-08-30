@@ -3,3 +3,6 @@ Google Auth Platform requires links to various pages and privacy notes; for apps
 
 
 NOTE TO REVIEWERS: The app that links to this page is for personal use only, with no other humans or their data involved.
+
+- [privacy policy](./PRIVACY.md)
+- [terms of service](./Terms%20Of%20Service.md)
